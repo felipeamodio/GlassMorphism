@@ -3,7 +3,7 @@
 
 Hi 🖖🏽 this is an **app to show a glass effect**, The project was made with React Native using **Expo** and **Typescript**
 
-![Glass](https://github.com/felipeamodio/filter-clickup/blob/master/glass.png)
+![Glass](https://github.com/felipeamodio/GlassMorphism/blob/main/glass.png)
 
 ## Functionality
 The project's functionality is very simple, it simulates the base of a credit card but with a **glass effect**.
